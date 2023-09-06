@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: serif;
+    
+}
+header{
+    text-align: center;
+    padding-right: 150px;
+
+}
+section {
+    background: #eaeaea;
+    padding-top: 30px;
+}
+.box {
+    background: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border: 1px solid #EDEEEE ;
+    border-radius: 10px;
+   
+
+}
+.box .title .date {
+    float: right;
+    margin: 0;
+    color: lightgray;
+ }
+img {
+    width: 100%;
+}
+div.title {
+    padding: 10px;
+    font-size: 18px
+}
+div.description {
+    padding: 15px
+}
